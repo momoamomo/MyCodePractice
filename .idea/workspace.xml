@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4738973-f78d-4257-a6c1-c700d6a3206b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g7mUvalN9NtECQDuVvrPgYFWUz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Code/lucky" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HJ49多线程">
+    <configuration name="H1Test2021050301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testLocal.H1Test2021050301" />
+      <module name="MyCodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testLocal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H2Test2021050302" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testLocal.H2Test2021050302" />
+      <module name="MyCodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testLocal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ46按字节截取字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoderHW.part1.HJ46按字节截取字符串" />
+      <module name="MyCodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoderHW.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ48从单向链表中删除指定值的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoderHW.part1.HJ48从单向链表中删除指定值的节点" />
+      <module name="MyCodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoderHW.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ49多线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoderHW.part1.HJ49多线程" />
+      <module name="MyCodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoderHW.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HJ49多线程" />
+        <item itemvalue="Application.HJ48从单向链表中删除指定值的节点" />
+        <item itemvalue="Application.HJ46按字节截取字符串" />
+        <item itemvalue="Application.H2Test2021050302" />
+        <item itemvalue="Application.H1Test2021050301" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4738973-f78d-4257-a6c1-c700d6a3206b" name="Default Changelist" comment="" />
+      <created>1597474023955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597474023955</updated>
+      <workItem from="1597474027778" duration="8140000" />
+      <workItem from="1597578601307" duration="4433000" />
+      <workItem from="1598166018173" duration="6265000" />
+      <workItem from="1598233028092" duration="435000" />
+      <workItem from="1598251058260" duration="3444000" />
+      <workItem from="1598600593526" duration="6953000" />
+      <workItem from="1600853584131" duration="2075000" />
+      <workItem from="1600915274446" duration="7834000" />
+      <workItem from="1601260198654" duration="3709000" />
+      <workItem from="1601276344358" duration="3366000" />
+      <workItem from="1601342288596" duration="5437000" />
+      <workItem from="1601450416259" duration="13415000" />
+      <workItem from="1602944504585" duration="747000" />
+      <workItem from="1603415618164" duration="682000" />
+      <workItem from="1608099297839" duration="1657000" />
+      <workItem from="1608552118556" duration="1100000" />
+      <workItem from="1609402727171" duration="2091000" />
+      <workItem from="1615708053368" duration="19678000" />
+      <workItem from="1620007982651" duration="10917000" />
+      <workItem from="1620020090469" duration="401000" />
+      <workItem from="1620301524582" duration="627000" />
+      <workItem from="1620349763175" duration="594000" />
+      <workItem from="1622598824564" duration="1917000" />
+      <workItem from="1623053900905" duration="52000" />
+      <workItem from="1626682209030" duration="21009000" />
+      <workItem from="1626851797057" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="sum" />
+        <watch expression="str" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
