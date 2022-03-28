@@ -2,87 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4738973-f78d-4257-a6c1-c700d6a3206b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interview/HR1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetnofree/LC370.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetnofree/LC531孤独像素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetnofree/LC536字符串生成二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetnofree/LC545二叉树边界.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetnofree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoderHW/basic/栈和队列互相实现.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoderHW/part1/HJ32密码截取最长回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoderHW/part1/HJ33整数与ip地址间的转换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoderHW/part1/HJ55挑7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nowcoderHW/part1/HJ57高精度整数加法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main10找字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main11余数分类.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main14快递车.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main15航天器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main18喊7游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main19删除最少的字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main20数组按规定从头走到尾.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main21通信系统调度策略.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main22循环合并数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main26黑板报上颜色.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main27整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main28最大N个数和最小N个数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main29单词联想.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main2元素对求和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main30二维移动矩阵最大和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main31连续自然数之和表达式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main32滑动窗口和最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main33内存池分配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main34众数组成的新中位数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main35数轴点集合.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main36参赛团队人能力.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main38URL前后缀.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main39描述数列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main3N阶方阵和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main40幼儿园小朋友分班.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main42Vlan局域网.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main43整数新编码.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main44固定和最长连续子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main45满足规则的数组组合.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main46火星人运算符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main47相对开音结构.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main48非相同元素字符串乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main4TLV编码.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main50小明分糖果.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main51非严格递增序列长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main52磁盘容量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main53停车位最大距离.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main54英文文章反转.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main55单词接龙.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main57第K长连续子串数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main58工厂流水线.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main59考勤.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main5猴子登山.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main61相同子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main62解压字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main63字符集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main65字母ASCII排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main66元音字母.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main67变化规则.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main68最小和的绝对值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main69字母消消乐.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main6GPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main70水仙花数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main71高矮排队最小距离.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main73字符数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main74占车位.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main75最大连续字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main76小朋友身高.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main77买东西.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main78时间排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main79运动会身高体重.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main7身高绝对值差排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main80第K个排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main81计费表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main82最小和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main84卡片组数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main五键键盘.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/odpart/Main射击比赛.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,8 +161,17 @@
       <workItem from="1646040845903" duration="784000" />
       <workItem from="1646220873076" duration="4004000" />
       <workItem from="1646271837838" duration="4928000" />
-      <workItem from="1647913712817" duration="1732000" />
+      <workItem from="1647913712817" duration="2495000" />
+      <workItem from="1648190231616" duration="128000" />
     </task>
+    <task id="LOCAL-00001" summary="OCT REM: 练习记录">
+      <created>1647915610062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647915610062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +189,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OCT REM: 练习记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="OCT REM: 练习记录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
